@@ -6,5 +6,4 @@ The satellite imagery files are not included due to the size. But they are easy 
 Also, it is possible to use Copernicus API. I did not as this was meant to be a POC
 
 ![](./map_plot.png)
-
 ![](./time_plot.png)
